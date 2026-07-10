@@ -8,7 +8,8 @@
 -->
 
 <!-- ══════════════════════════════  BANNER  ══════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Abhishek%20Kumar&fontSize=54&fontColor=ffffff&fontAlignY=35&desc=Data%20Analyst%20%7C%20Pharma%20%26%20Life-Sciences%20%7C%20SQL%20•%20Power%20BI%20•%20MIS%20Automation&descAlignY=57&descSize=16&animation=fadeIn" alt="banner" />
+<!-- Custom self-hosted banner — banner.svg is committed in this same repo, so it always renders. -->
+<img width="100%" src="./banner.svg" alt="Abhishek Kumar — Data Analyst | Pharma & Life-Sciences | SQL · Power BI · MIS Automation" />
 
 <!-- ══════════════════════════  TYPING SUBTITLE  ═════════════════════════ -->
 <div align="center">
@@ -131,8 +132,9 @@ Netflix catalogue data analysis using SQL — joins, aggregations, and trend que
 </div>
 
 <!-- ══════════════════════════════  FOOTER  ═════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer" />
+
+---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/abhishek8762a">Abhishek Kumar</a> — thanks for visiting!</i>
+  <i>⭐️ From <a href="https://github.com/abhishek8762a">Abhishek Kumar</a> — thanks for visiting. Let's turn data into decisions.</i>
 </div>
