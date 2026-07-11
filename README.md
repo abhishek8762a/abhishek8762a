@@ -8,7 +8,7 @@
     text    #E2E8F0     muted   #94A3B8
   NOTE: GitHub sanitizes <style>, <script>, class= and inline style=. The premium
   look here comes from externally-rendered animated SVGs + GitHub-safe HTML tables.
-  Repo lives at:  github.com/abhishek8762a/abhishek8762a   (special profile repo)
+  All content aligned to CV (Abhishek-Kumar-CV.pdf). Repo: github.com/abhishek8762a/abhishek8762a
 =====================================================================================
 -->
 
@@ -17,8 +17,8 @@
 <a href="https://github.com/abhishek8762a">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,35:0891B2,75:2563EB,100:0B1120&height=210&section=header&text=ABHISHEK%20KUMAR&fontSize=52&fontColor=E2E8F0&fontAlignY=38&desc=Data%20%C2%B7%20Systems%20%C2%B7%20Automation&descSize=18&descAlignY=60&descColor=22D3EE&animation=fadeIn"
-    alt="Abhishek Kumar — Data · Systems · Automation"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,35:0891B2,75:2563EB,100:0B1120&height=210&section=header&text=ABHISHEK%20KUMAR&fontSize=52&fontColor=E2E8F0&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Pharma%20%26%20Life-Sciences%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descSize=17&descAlignY=60&descColor=22D3EE&animation=fadeIn"
+    alt="Abhishek Kumar — Data Analyst · Pharma & Life-Sciences · SQL · Power BI"
   />
 </a>
 
@@ -28,7 +28,7 @@
 
 <a href="https://github.com/abhishek8762a">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=820&height=52&lines=MIS+Executive+%40+OMEXGEARS;Aspiring+World-Class+Data+Analyst;SQL+%7C+Power+BI+%7C+Automation+%7C+System+Design;From+Pharma+QC+to+Data+Engineering"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=840&height=52&lines=Data+Analyst+%7C+Pharma+%26+Life-Sciences+Domain;MIS+Data+Analyst+%40+Dharma+Power+Transmission;SQL+%7C+Power+BI+%7C+Excel+%7C+MIS+Automation;From+Pharma+QC+to+Data+Analytics"
     alt="Typing tagline"
   />
 </a>
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/github/followers/abhishek8762a?style=flat-square&label=FOLLOWERS&labelColor=0B1120&color=3B82F6&logo=github&logoColor=white" alt="Followers"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Manufacturing%20Analytics-2563EB?style=flat-square&labelColor=0B1120" alt="Focus"/>
+<img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-2563EB?style=flat-square&labelColor=0B1120" alt="Open to work"/>
 
 </div>
 
@@ -56,11 +56,12 @@
 
 ### `Turning operational chaos into clean, queryable, decision-ready data.`
 
-I'm a **manufacturing-floor analyst** who learned to code the systems the floor actually needs.
-I started in **Pharma Quality Control**, moved into **manufacturing operations**, and now I build
-**SQL pipelines, Power BI intelligence, and Apps-Script automations** that replace spreadsheets and
-guesswork with **auditable systems**. My north star: become a **world-class Data Analyst** working at
-the intersection of **Business Intelligence, Manufacturing Analytics, Automation, and System Design.**
+I'm a **Data Analyst** who builds the systems operations actually run on. Right now I manage a **live,
+multi-department Flow Management System** that replaced manual verbal workflows with **TAT-tracked digital
+pipelines** across Sales, Design &amp; Purchase. Before analytics, I spent real time in a **GMP/GLP Quality
+Control lab** — HPLC, batch records, regulatory data integrity — which gives me a rare edge: I read data
+the way a pharma auditor does. My goal is to become a **world-class Data Analyst** across **Business
+Intelligence, Pharma / Life-Sciences Analytics, Automation &amp; System Design.**
 
 </div>
 
@@ -73,48 +74,29 @@ the intersection of **Business Intelligence, Manufacturing Analytics, Automation
 <a href="mailto:abhiyadav8762@gmail.com">
   <img src="https://img.shields.io/badge/%E2%9C%89%20Email%20Me-06B6D4?style=for-the-badge&labelColor=0B1120&logoColor=white" alt="Email"/>
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin-handle">
+<a href="https://linkedin.com/in/abhishek-kumar">
   <img src="https://img.shields.io/badge/in%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/abhishek8762a?tab=repositories">
   <img src="https://img.shields.io/badge/%E2%9F%A9%20View%20Projects-2563EB?style=for-the-badge&labelColor=0B1120&logoColor=white" alt="Projects"/>
 </a>
-<a href="https://github.com/abhishek8762a">
+<a href="https://github.com/abhishek8762a/abhishek8762a/blob/main/Abhishek-Kumar-CV.pdf">
   <img src="https://img.shields.io/badge/%E2%86%93%20Resume-1E293B?style=for-the-badge&labelColor=0B1120&logoColor=white" alt="Resume"/>
 </a>
-
-<sub><i>LinkedIn &amp; Resume links are placeholders — swap in your real URLs.</i></sub>
 
 </div>
 
 <br/>
 
-<!-- ============================== HERO STATS PREVIEW ============================== -->
+<!-- ============================== HERO STATS PREVIEW (reliable services only) ============================== -->
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 <img
-  src="https://github-readme-stats.vercel.app/api?username=abhishek8762a&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=22D3EE&icon_color=3B82F6&text_color=94A3B8&bg_color=0B1120&ring_color=22D3EE"
-  alt="GitHub stats"
-  width="100%"
-/>
-
-</td>
-<td width="50%" valign="top">
-
-<img
+  width="60%"
   src="https://streak-stats.demolab.com?user=abhishek8762a&hide_border=true&background=0B1120&stroke=1E293B&ring=22D3EE&fire=3B82F6&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&sideNums=E2E8F0&currStreakNum=E2E8F0&excludeDaysLabel=64748B"
   alt="GitHub streak"
-  width="100%"
 />
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -128,7 +110,7 @@ the intersection of **Business Intelligence, Manufacturing Analytics, Automation
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/01-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; The Story — *Pharma QC → Data Engineering*
+## <img src="https://img.shields.io/badge/01-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; The Story — *Pharma QC → Data Analytics*
 
 </div>
 
@@ -136,20 +118,22 @@ the intersection of **Business Intelligence, Manufacturing Analytics, Automation
 <tr>
 <td width="60%" valign="top">
 
-I don't come from a computer-science background. I come from the **shop floor and the QC lab** — where
-a wrong number isn't a failed unit test, it's a **rejected batch**. That environment taught me the habit
-that defines how I build software today: **data must be correct, traceable, and defensible.**
+I don't come from a computer-science background. I come from the **QC lab and the shop floor** — where a
+wrong number isn't a failed unit test, it's a **rejected batch**. In a **GMP/GLP** environment I ran
+**HPLC, Karl Fischer, UV-Vis and TLC** analyses and maintained QC records for **200+ batch tests**, where
+every value needed full traceability and audit-readiness. That habit defines how I build software today:
+**data must be correct, traceable, and defensible.**
 
-Every system I design starts with the same question a QC analyst asks:
+Every system I design starts with the question a QC analyst asks:
 > *"If someone audits this in six months, does it still hold up?"*
 
-So I learned **SQL** to stop exporting spreadsheets. I learned **Power BI** to stop emailing static
-reports. I learned **Apps Script &amp; automation** to stop doing the same manual task twice. And I learned
-**system design** because a report is only as good as the data model beneath it.
+So I learned **SQL** to stop exporting spreadsheets, **Power BI** to stop emailing static reports, and
+**Google Apps Script** to stop doing the same manual task twice. Today I run a **production Flow
+Management System** that digitized a fully manual, verbal order-to-dispatch process — and I'm extending it
+into full material-lifecycle tracking.
 
-I'm now driving toward a single goal: to be a **Data Analyst who thinks like an engineer** — someone who
-can model a domain, design the schema, write the query, build the dashboard, *and* automate the pipeline
-that keeps it all alive.
+I'm now driving toward one goal: to be a **Data Analyst who thinks like an engineer** — model the domain,
+design the schema, write the query, build the dashboard, *and* automate the pipeline that keeps it alive.
 
 </td>
 <td width="40%" valign="top">
@@ -158,20 +142,25 @@ that keeps it all alive.
 
 ```yaml
 profile:
-  name:        Abhishek Kumar
-  role:        MIS Executive
-  company:     OMEXGEARS
-  location:    Lucknow, India
-  origin:      Pharma Quality Control
-  now:         Manufacturing Analytics
-  goal:        World-Class Data Analyst
+  name:       Abhishek Kumar
+  title:      Data Analyst
+  role:       MIS Data Analyst
+  company:    Dharma Power Transmission
+  location:   Lucknow, India
+  origin:     Pharma Quality Control (GMP/GLP)
+  education:  B.Sc. — Chemistry, Zoology, Botany
+  goal:       World-Class Data Analyst
+
+domain_edge:
+  - GMP / GLP data integrity
+  - HPLC · Karl Fischer · UV-Vis · TLC
+  - Batch records & audit-readiness
 
 focus:
   - SQL & Data Modeling
-  - Business Intelligence
-  - Manufacturing Analytics
-  - Workflow Automation
-  - System Design
+  - Power BI & Business Intelligence
+  - MIS Automation (Apps Script)
+  - Manufacturing & Pharma Analytics
 
 operating_mode: |
   Measure first.
@@ -199,13 +188,13 @@ operating_mode: |
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F172A','primaryTextColor':'#E2E8F0','primaryBorderColor':'#22D3EE','lineColor':'#3B82F6','fontFamily':'Fira Code'}}}%%
 flowchart LR
-    A([Pharma QC]):::a --> B([Manufacturing Ops]):::b
-    B --> C([Automation]):::c
+    A([Pharma QC<br/>GMP/GLP Lab]):::a --> B([MIS / Operations]):::b
+    B --> C([Automation<br/>Apps Script]):::c
     C --> D([SQL]):::d
     D --> E([Power BI]):::e
-    E --> F([System Design]):::f
+    E --> F([System Design<br/>FMS]):::f
     F --> G([Business Intelligence]):::g
-    G --> H{{Data Engineering}}:::h
+    G --> H{{Data Analyst}}:::h
 
     classDef a fill:#0F172A,stroke:#334155,color:#94A3B8;
     classDef b fill:#0F172A,stroke:#0891B2,color:#CBD5E1;
@@ -219,60 +208,51 @@ flowchart LR
 
 </div>
 
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:2563EB,100:0B1120&height=3" alt="divider"/>
+
+<br/>
+
+<!-- ============================== WORK EXPERIENCE ============================== -->
+
+<div align="center">
+
+## <img src="https://img.shields.io/badge/02-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; Experience
+
+</div>
+
 <table>
 <tr>
-<th align="left" width="18%">Phase</th>
-<th align="left" width="22%">What I Did</th>
-<th align="left" width="30%">What It Taught Me</th>
-<th align="left" width="30%">Skill Unlocked</th>
+<td width="4" valign="top"><img src="https://img.shields.io/badge/-06B6D4?style=flat-square&labelColor=06B6D4" height="120" width="6"/></td>
+<td valign="top">
+
+**MIS Data Analyst** &nbsp;·&nbsp; **Dharma Power Transmission Pvt Ltd** &nbsp;·&nbsp; <sub>Feb 2026 – Present</sub>
+
+- Designed &amp; deployed a **multi-department Flow Management System (FMS)** on Google Sheets — digitizing a fully manual, verbal order-to-dispatch workflow across **Sales, Design &amp; Purchase**.
+- Engineered **conditional workflow routing**: HTML form → advance confirmation → design check → drawing approval → BOM generation → purchase trigger — eliminating all verbal inter-department handoffs.
+- Built a **real-time cross-department data pipeline** via `IMPORTRANGE` and implemented **TAT-based SLA tracking** — deadline visibility and delay flagging at every workflow stage.
+- **Now extending** the FMS to a **Purchase-to-Material-Receipt** module — completing end-to-end order lifecycle tracking from inquiry to goods received.
+
+</td>
 </tr>
 <tr>
-<td valign="top"><b>Pharma QC</b><br/><sub>The origin</sub></td>
-<td valign="top">Quality control testing, batch documentation, compliance records.</td>
-<td valign="top">Data integrity is non-negotiable. Every number needs a paper trail.</td>
-<td valign="top"><code>Accuracy</code> <code>Traceability</code> <code>Documentation</code></td>
-</tr>
-<tr>
-<td valign="top"><b>Manufacturing</b><br/><sub>The context</sub></td>
-<td valign="top">Moved into operations / MIS — orders, batches, dispatch, TAT.</td>
-<td valign="top">Operations run on spreadsheets that don't scale and can't be trusted.</td>
-<td valign="top"><code>Process Mapping</code> <code>MIS</code> <code>Reporting</code></td>
-</tr>
-<tr>
-<td valign="top"><b>Automation</b><br/><sub>The catalyst</sub></td>
-<td valign="top">Built Google Apps Script tools to kill repetitive manual work.</td>
-<td valign="top">If I do it twice, I should automate it once.</td>
-<td valign="top"><code>Apps Script</code> <code>Web Apps</code> <code>Workflows</code></td>
-</tr>
-<tr>
-<td valign="top"><b>SQL</b><br/><sub>The turning point</sub></td>
-<td valign="top">Analyzed real datasets — Netflix catalog, FDA adverse events (90k+ rows).</td>
-<td valign="top">The database is the source of truth; the query is the question.</td>
-<td valign="top"><code>SQL</code> <code>Joins</code> <code>Window Fns</code> <code>Aggregation</code></td>
-</tr>
-<tr>
-<td valign="top"><b>Power BI</b><br/><sub>The amplifier</sub></td>
-<td valign="top">Turned queries into interactive dashboards decision-makers actually use.</td>
-<td valign="top">Insight nobody sees is insight that doesn't exist.</td>
-<td valign="top"><code>Power BI</code> <code>DAX</code> <code>Data Viz</code></td>
-</tr>
-<tr>
-<td valign="top"><b>System Design</b><br/><sub>The present</sub></td>
-<td valign="top">Designing multi-phase FMS / order-flow systems on top of sheets &amp; scripts.</td>
-<td valign="top">A dashboard is a UI; the data model is the product.</td>
-<td valign="top"><code>Schema Design</code> <code>Architecture</code> <code>Scale</code></td>
-</tr>
-<tr>
-<td valign="top"><b>BI &amp; Data Eng.</b><br/><sub>The destination</sub></td>
-<td valign="top">Where I'm heading — pipelines, modeling, and analytics at scale.</td>
-<td valign="top">Every operational problem is a data problem in disguise.</td>
-<td valign="top"><code>Pipelines</code> <code>Modeling</code> <code>BI Strategy</code></td>
+<td width="4" valign="top"><img src="https://img.shields.io/badge/-2563EB?style=flat-square&labelColor=2563EB" height="120" width="6"/></td>
+<td valign="top">
+
+**Quality Control Executive** &nbsp;·&nbsp; **Mahima Life Science Pvt. Ltd., Sonipat** &nbsp;·&nbsp; <sub>Sept 2025 – Feb 2026</sub>
+
+- Maintained **GMP/GLP-compliant QC data records** for **200+ batch tests** in MS Excel — ensuring full traceability, documentation integrity and audit-readiness.
+- Executed **HPLC (Lab Solutions), Karl Fischer, UV-Vis and TLC** analyses per SOP — generating structured analytical reports for raw-material and finished-product compliance.
+- Hands-on with **batch release criteria, instrument calibration logs and regulated pharma data** — directly transferable to pharma analytics roles.
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:2563EB,100:0B1120&height=3" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider exp"/>
 
 <br/>
 
@@ -280,14 +260,13 @@ flowchart LR
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/02-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; Featured Work — *Products, not repositories*
+## <img src="https://img.shields.io/badge/03-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; Featured Work — *real systems, real findings*
 
-<sub>Each project below is presented as a product page — problem, architecture, data model, workflow, and roadmap.</sub>
+<sub>Every project below is live in production or public on GitHub — presented as a product page.</sub>
 
 <br/>
 
-<img src="https://img.shields.io/badge/%E2%97%89%20LIVE-06B6D4?style=flat-square&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/%E2%97%8C%20IN%20DEVELOPMENT-2563EB?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/%E2%97%89%20LIVE%20%2F%20PUBLIC-06B6D4?style=flat-square&labelColor=0B1120"/>
 <img src="https://img.shields.io/badge/%E2%98%85%20FLAGSHIP-22D3EE?style=flat-square&labelColor=0B1120"/>
 
 </div>
@@ -295,7 +274,7 @@ flowchart LR
 <br/>
 
 <!-- ---------------------------------------------------------------------------- -->
-<!-- PROJECT 01 — RAILWAY DISPLAY BOARD (FLAGSHIP)                                 -->
+<!-- PROJECT 01 — FLOW MANAGEMENT SYSTEM (FLAGSHIP · PRODUCTION)                   -->
 <!-- ---------------------------------------------------------------------------- -->
 
 <table>
@@ -304,18 +283,18 @@ flowchart LR
 
 <div align="center">
 
-### ★ &nbsp; Railway Display Board Management System &nbsp; ★
-**`FLAGSHIP`** &nbsp;·&nbsp; **`IN DEVELOPMENT`** &nbsp;·&nbsp; Enterprise Transit Information System
+### ★ &nbsp; Flow Management System (FMS) &nbsp; ★
+**`FLAGSHIP`** &nbsp;·&nbsp; **`● LIVE IN PRODUCTION`** &nbsp;·&nbsp; Multi-Department Order-to-Dispatch Engine
 
-<img src="https://placehold.co/860x300/0B1120/22D3EE/png?text=Railway+Display+Board+%E2%80%94+Live+Platform+View&font=source-sans-pro" width="90%" alt="Railway Display Board — screenshot placeholder"/>
+<img src="https://placehold.co/860x300/0B1120/22D3EE/png?text=Flow+Management+System+%E2%80%94+TAT+Tracked+Pipeline&font=source-sans-pro" width="90%" alt="FMS — screenshot placeholder"/>
 
-<sub>▲ Screenshot placeholder — replace with a real dashboard capture once deployed.</sub>
+<sub>▲ Screenshot placeholder — replace with a real capture from your deployed dashboard.</sub>
 
 </div>
 
-> **One-line pitch:** A centralized control system that drives every passenger information display in a
-> station — train numbers, platforms, arrival/departure times, delays and coach position — from a single
-> source of truth, in real time.
+> **One-line pitch:** A production system that replaced a fully **manual, verbal** order-to-dispatch process
+> with a **TAT-tracked digital pipeline** — routing every order through Sales, Design and Purchase with
+> deadline visibility and delay flagging at each stage.
 
 </td>
 </tr>
@@ -327,266 +306,15 @@ flowchart LR
 
 **◆ Business Problem**
 
-Stations run dozens of displays that are updated manually or by disconnected legacy tools. The result:
-inconsistent platform info, stale delay data, and passengers who can't trust the board. There is no
-single operator view and no audit of *who changed what, when.*
+Orders moved between Sales, Design and Purchase by **word of mouth**. Nothing was timestamped, nobody owned
+the deadline, and delays were invisible until a customer complained. There was no single view of where an
+order actually was.
 
 **◆ The Solution**
 
-A role-based control plane where an operator updates a train's status **once**, and every board — main
-concourse, platform indicators, coach-position displays — reflects it instantly. Every change is logged.
-Every board is a read-only projection of one authoritative schedule table.
-
-</td>
-<td width="50%" valign="top">
-
-**◆ Technical Stack**
-
-<img src="https://img.shields.io/badge/SQL-Data%20Model-06B6D4?style=flat-square&labelColor=0B1120&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/System%20Design-Event%20Driven-2563EB?style=flat-square&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Real%20Time-Pub%2FSub-22D3EE?style=flat-square&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Apps%20Script-Automation-3B82F6?style=flat-square&labelColor=0B1120&logo=googleappsscript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML%2FCSS-Display%20UI-38BDF8?style=flat-square&labelColor=0B1120&logo=html5&logoColor=white"/>
-
-**◆ Core Capabilities**
-
-- Single source of truth for all board content
-- Role-based access — Operator / Supervisor / Admin
-- Real-time propagation to every connected display
-- Delay &amp; platform-change broadcasting
-- Full audit trail of every schedule mutation
-- Multi-display layouts (concourse / platform / coach)
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>◆ System Architecture &nbsp;—&nbsp; click to expand</b></summary>
-
-<br/>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F172A','primaryTextColor':'#E2E8F0','primaryBorderColor':'#22D3EE','lineColor':'#3B82F6','fontFamily':'Fira Code'}}}%%
-flowchart TB
-    subgraph Control["🛠  Control Plane"]
-        OP[Operator Console]:::ctrl
-        SUP[Supervisor Approvals]:::ctrl
-    end
-    subgraph Core["⚙  Application Core"]
-        API[Schedule Service / API]:::core
-        VAL[Validation & Rules Engine]:::core
-        LOG[(Audit Log)]:::store
-    end
-    subgraph Data["🗄  Data Layer"]
-        DB[(Master Schedule DB)]:::store
-    end
-    subgraph Edge["🖥  Display Edge"]
-        B1[Concourse Board]:::edge
-        B2[Platform Indicators]:::edge
-        B3[Coach Position Boards]:::edge
-    end
-
-    OP --> VAL
-    SUP --> VAL
-    VAL --> API
-    API --> DB
-    API --> LOG
-    DB --> API
-    API -->|push updates| B1
-    API -->|push updates| B2
-    API -->|push updates| B3
-
-    classDef ctrl fill:#0F172A,stroke:#0891B2,color:#E2E8F0;
-    classDef core fill:#0F172A,stroke:#22D3EE,color:#E2E8F0;
-    classDef store fill:#0B1120,stroke:#3B82F6,color:#93C5FD;
-    classDef edge fill:#0F172A,stroke:#2563EB,color:#E2E8F0;
-```
-
-**Design principle:** displays never hold state. They *subscribe* to the schedule service and render
-whatever the authoritative record says. If a board reboots, it re-syncs from the source in one call.
-
-</details>
-
-<details>
-<summary><b>◆ Database Design &nbsp;(ER model + relationships) &nbsp;—&nbsp; click to expand</b></summary>
-
-<br/>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F172A','primaryTextColor':'#E2E8F0','lineColor':'#3B82F6','fontFamily':'Fira Code'}}}%%
-erDiagram
-    STATION ||--o{ PLATFORM : has
-    STATION ||--o{ DISPLAY_BOARD : hosts
-    TRAIN   ||--o{ SCHEDULE : runs
-    PLATFORM ||--o{ SCHEDULE : assigned_to
-    SCHEDULE ||--o{ STATUS_EVENT : generates
-    USER    ||--o{ STATUS_EVENT : authored
-    DISPLAY_BOARD ||--o{ BOARD_BINDING : renders
-
-    STATION {
-        int    station_id PK
-        string name
-        string code
-    }
-    PLATFORM {
-        int    platform_id PK
-        int    station_id FK
-        string label
-    }
-    TRAIN {
-        int    train_id PK
-        string number
-        string name
-        string type
-    }
-    SCHEDULE {
-        int    schedule_id PK
-        int    train_id FK
-        int    platform_id FK
-        time   arrival
-        time   departure
-        int    delay_min
-        string status
-    }
-    STATUS_EVENT {
-        int    event_id PK
-        int    schedule_id FK
-        int    user_id FK
-        string change_type
-        string old_value
-        string new_value
-        datetime created_at
-    }
-    USER {
-        int    user_id PK
-        string name
-        string role
-    }
-    DISPLAY_BOARD {
-        int    board_id PK
-        int    station_id FK
-        string type
-    }
-    BOARD_BINDING {
-        int    binding_id PK
-        int    board_id FK
-        int    schedule_id FK
-    }
-```
-
-**Relationship logic**
-
-| Relationship | Type | Why it matters |
-|---|---|---|
-| `STATION → PLATFORM` | one-to-many | A station owns many platforms |
-| `TRAIN → SCHEDULE` | one-to-many | A train appears in many scheduled runs |
-| `PLATFORM → SCHEDULE` | one-to-many | Platform assignment lives on the schedule, so re-platforming is one update |
-| `SCHEDULE → STATUS_EVENT` | one-to-many | Every delay / platform / status change is an immutable event → full audit trail |
-| `USER → STATUS_EVENT` | one-to-many | Accountability: every change is attributable |
-| `DISPLAY_BOARD → BOARD_BINDING` | one-to-many | A board renders a filtered projection of schedules |
-
-**Normalization:** 3NF — no derived display text is stored; boards compute their view from the schedule
-join at render time, so there is exactly one place to change the truth.
-
-</details>
-
-<details>
-<summary><b>◆ Operator Workflow &nbsp;—&nbsp; click to expand</b></summary>
-
-<br/>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F172A','primaryTextColor':'#E2E8F0','lineColor':'#22D3EE','fontFamily':'Fira Code'}}}%%
-sequenceDiagram
-    autonumber
-    participant O as Operator
-    participant V as Validation Engine
-    participant DB as Schedule DB
-    participant L as Audit Log
-    participant B as Display Boards
-    O->>V: Update Train 12557 → Delay +15m, Platform 4
-    V->>V: Check rules (platform free? valid delay?)
-    V->>DB: Commit new status
-    DB->>L: Write STATUS_EVENT (who/what/when)
-    DB-->>B: Broadcast projection
-    B-->>O: Confirm all boards updated
-```
-
-</details>
-
-<details>
-<summary><b>◆ Challenges · Learnings · Future Scope &nbsp;—&nbsp; click to expand</b></summary>
-
-<br/>
-
-| Challenge | How I approached it | What I learned |
-|---|---|---|
-| Keeping many displays consistent | Made boards stateless projections of one table | Single source of truth beats syncing copies |
-| Auditing manual changes | Event-sourced `STATUS_EVENT` table | Immutable logs make trust automatic |
-| Role separation | Modeled roles in the schema, not the UI | Authorization belongs in the data layer |
-| Re-platforming without chaos | Platform is a FK on schedule, not hard-coded | Normalization turns a migration into an `UPDATE` |
-
-**Future Scope**
-
-- Live train-tracking feed integration (GPS / signaling)
-- Passenger mobile companion (same API, new client)
-- Predictive delay estimation from historical `STATUS_EVENT` data
-- Multilingual board rendering
-- High-availability failover for the schedule service
-
-</details>
-
-<div align="center">
-
-<a href="https://github.com/abhishek8762a">
-  <img src="https://img.shields.io/badge/GitHub-Coming%20Soon-1E293B?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Live%20Demo-Planned-2563EB?style=for-the-badge&logoColor=white&labelColor=0B1120"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Documentation-Draft-06B6D4?style=for-the-badge&logoColor=white&labelColor=0B1120"/>
-</a>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:1E293B,100:0B1120&height=2" alt="divider"/>
-
-<br/>
-
-<!-- ---------------------------------------------------------------------------- -->
-<!-- PROJECT 02 — MANUFACTURING FLOW MANAGEMENT SYSTEM                             -->
-<!-- ---------------------------------------------------------------------------- -->
-
-<div align="center">
-
-### Manufacturing Flow Management System
-**`IN DEVELOPMENT`** &nbsp;·&nbsp; Multi-Phase Order &amp; Workflow Engine
-
-<img src="https://placehold.co/860x280/0B1120/3B82F6/png?text=Manufacturing+Flow+%E2%80%94+Phase+Board&font=source-sans-pro" width="90%" alt="Manufacturing Flow — screenshot placeholder"/>
-
-<sub>▲ Screenshot placeholder</sub>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**◆ Business Problem**
-
-A single manufacturing order isn't one thing — it flows through **Sales Order → Raw Material →
-Bought-out → Dispatch**, often split into **partial-quantity batches** that move at different speeds.
-Spreadsheets can't express "40% dispatched, 60% still in RM" without breaking.
-
-**◆ The Solution**
-
-A phase-flow model where one order fans out into batches, each batch carries its own phase and TAT, and
-role-based dashboards show every stakeholder exactly what's waiting on them — powered by a sheet-driven
-TAT engine and an Apps Script web app.
+A Google-Sheets-native FMS where an order enters through an **HTML form** and is **conditionally routed**
+stage-by-stage. Every hop is timestamped, every stage has a **TAT/SLA**, and cross-department data flows in
+real time — turning an untraceable verbal chain into an **auditable pipeline.**
 
 </td>
 <td width="50%" valign="top">
@@ -595,78 +323,104 @@ TAT engine and an Apps Script web app.
 
 <img src="https://img.shields.io/badge/Google%20Apps%20Script-Backend-4285F4?style=flat-square&labelColor=0B1120&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Sheets-Data%20Engine-0F9D58?style=flat-square&labelColor=0B1120&logo=googlesheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-Web%20App-38BDF8?style=flat-square&labelColor=0B1120&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TAT%20Engine-Formulas-06B6D4?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/IMPORTRANGE-Pipeline-06B6D4?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/HTML%20Forms-Intake-38BDF8?style=flat-square&labelColor=0B1120&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/TAT%2FSLA-Tracking-2563EB?style=flat-square&labelColor=0B1120"/>
 
-**◆ Features**
+**◆ Core Capabilities**
 
-- One order → many partial-quantity batches
-- Phase flow: Sales → RM → Bought-out → Dispatch
-- Automatic TAT / ageing per phase
-- Role-based views (floor, planning, MD)
-- Fully sheet-driven — no redeploy to reconfigure
+- HTML-form order intake → structured records
+- Conditional routing across Sales / Design / Purchase
+- Real-time cross-sheet pipeline via `IMPORTRANGE`
+- TAT-based SLA tracking with delay flagging
+- Stage-level deadline visibility for every order
+- Extensible to full material-lifecycle tracking
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>◆ Phase-Flow Architecture &nbsp;—&nbsp; click to expand</b></summary>
+<summary><b>◆ Workflow Architecture &nbsp;—&nbsp; click to expand</b></summary>
 
 <br/>
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F172A','primaryTextColor':'#E2E8F0','lineColor':'#3B82F6','fontFamily':'Fira Code'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F172A','primaryTextColor':'#E2E8F0','primaryBorderColor':'#22D3EE','lineColor':'#3B82F6','fontFamily':'Fira Code'}}}%%
 flowchart LR
-    SO[Sales Order]:::p --> RM[Raw Material]:::p
-    RM --> BO[Bought-out]:::p
-    BO --> DP[Dispatch]:::done
-    SO -.->|split| B1[Batch A 40%]:::b
-    SO -.->|split| B2[Batch B 60%]:::b
-    B1 --> DP
-    B2 --> RM
-    classDef p fill:#0F172A,stroke:#22D3EE,color:#E2E8F0;
-    classDef b fill:#0B1120,stroke:#2563EB,color:#93C5FD;
-    classDef done fill:#0B1120,stroke:#22D3EE,color:#22D3EE,stroke-width:2px;
+    F[HTML Form<br/>Order Intake]:::in --> A[Advance<br/>Confirmation]:::s
+    A --> D[Design<br/>Check]:::s
+    D --> DR[Drawing<br/>Approval]:::s
+    DR --> B[BOM<br/>Generation]:::s
+    B --> P[Purchase<br/>Trigger]:::s
+    P --> M[Material<br/>Receipt]:::next
+    subgraph TAT["⏱  TAT / SLA layer — timestamps + delay flags at every hop"]
+    end
+    classDef in fill:#0B1120,stroke:#22D3EE,color:#22D3EE,stroke-width:2px;
+    classDef s fill:#0F172A,stroke:#3B82F6,color:#E2E8F0;
+    classDef next fill:#0F172A,stroke:#0891B2,color:#93C5FD,stroke-dasharray:4 3;
 ```
 
-**Learning:** modeling *batches* as first-class rows (not columns on the order) is what makes
-partial-quantity flow possible. The order becomes an aggregate; the batch becomes the unit of work.
+**Design principle:** the workflow is **conditional, not linear** — an order only advances when the stage's
+gate is satisfied (advance confirmed, drawing approved, etc.), so the pipeline enforces the process instead
+of trusting people to remember it.
 
-**Future Scope:** barcode/QR batch scanning, live TAT SLA alerts, and a read-only MD analytics layer.
+</details>
+
+<details>
+<summary><b>◆ Data Flow &amp; Cross-Department Model &nbsp;—&nbsp; click to expand</b></summary>
+
+<br/>
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F172A','primaryTextColor':'#E2E8F0','lineColor':'#22D3EE','fontFamily':'Fira Code'}}}%%
+flowchart TB
+    SALES[(Sales Sheet)]:::d -->|IMPORTRANGE| HUB[(Master FMS Hub)]:::hub
+    DESIGN[(Design Sheet)]:::d -->|IMPORTRANGE| HUB
+    PURCHASE[(Purchase Sheet)]:::d -->|IMPORTRANGE| HUB
+    HUB --> DASH[TAT Dashboard<br/>deadlines · delays · status]:::dash
+    classDef d fill:#0F172A,stroke:#3B82F6,color:#93C5FD;
+    classDef hub fill:#0B1120,stroke:#22D3EE,color:#22D3EE,stroke-width:2px;
+    classDef dash fill:#0F172A,stroke:#0891B2,color:#E2E8F0;
+```
+
+**Learning:** `IMPORTRANGE` turns separate department sheets into one **live** source of truth without a
+database — the right level of engineering for the team's tools, while keeping a clean upgrade path to SQL.
+
+**Future Scope:** Purchase-to-Material-Receipt module (in progress), supplier TAT scoring, and a migration
+path from Sheets to a relational backend as volume grows.
 
 </details>
 
 <div align="center">
 
+<a href="#">
+  <img src="https://img.shields.io/badge/Status-Production%20(Internal)-06B6D4?style=for-the-badge&labelColor=0B1120"/>
+</a>
 <a href="https://github.com/abhishek8762a/task-delegation-tracker">
-  <img src="https://img.shields.io/badge/Related%20Repo-task--delegation--tracker-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120"/>
+  <img src="https://img.shields.io/badge/Related%20Public%20Repo-task--delegation--tracker-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120"/>
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Live%20Demo-Internal-1E293B?style=for-the-badge&labelColor=0B1120"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Documentation-Draft-2563EB?style=for-the-badge&labelColor=0B1120"/>
-</a>
+
+<sub>The FMS itself is internal company software; the delegation-tracker repo below is a public Apps-Script system built in the same style.</sub>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:1E293B,100:0B1120&height=2" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:1E293B,100:0B1120&height=2" alt="divider p1"/>
 
 <br/>
 
 <!-- ---------------------------------------------------------------------------- -->
-<!-- PROJECT 03 — INVENTORY & MATERIAL PLANNING SYSTEM                             -->
+<!-- PROJECT 02 — FDA ADVERSE EVENTS (SQL · PHARMACOVIGILANCE)                     -->
 <!-- ---------------------------------------------------------------------------- -->
 
 <div align="center">
 
-### Inventory &amp; Material Planning System
-**`IN DEVELOPMENT`** &nbsp;·&nbsp; Stock, Reorder &amp; Requirement Planning
+### FDA Adverse Events Analysis — SQL &amp; Pharmacovigilance
+**`● PUBLIC`** &nbsp;·&nbsp; 90,786 real FDA CAERS records (2004–2017)
 
-<img src="https://placehold.co/860x280/0B1120/06B6D4/png?text=Inventory+%26+Material+Planning&font=source-sans-pro" width="90%" alt="Inventory & Material Planning — screenshot placeholder"/>
+<img src="https://placehold.co/860x280/0B1120/06B6D4/png?text=FDA+CAERS+%E2%80%94+90%2C786+Records+in+SQL&font=source-sans-pro" width="90%" alt="FDA Adverse Events — screenshot placeholder"/>
 
 <sub>▲ Screenshot placeholder</sub>
 
@@ -678,153 +432,32 @@ partial-quantity flow possible. The order becomes an aggregate; the batch become
 
 **◆ Business Problem**
 
-Manufacturing stalls for two opposite reasons: **stock-outs** (missing a part halts a batch) and
-**over-stocking** (cash frozen on shelves). Both come from not knowing *what's needed, when.*
+Regulators and safety teams sit on huge adverse-event datasets that answer nothing until someone asks the
+right questions. Which product categories drive the most reports? Who is most at risk? Where are the serious
+outcomes concentrated?
 
 **◆ The Solution**
 
-A planning system that ties **on-hand stock** to **open orders** and **lead times**, computes **net
-requirement**, and flags reorder points before the floor runs dry — turning reactive purchasing into
-planned procurement.
+Full ingestion, cleaning and **multi-angle pharmacovigilance investigation** of the FDA CAERS dataset using
+advanced SQL — surfacing actionable safety signals a team could act on.
 
 </td>
 <td width="50%" valign="top">
 
 **◆ Tech Used**
 
-<img src="https://img.shields.io/badge/SQL-Requirement%20Logic-06B6D4?style=flat-square&labelColor=0B1120&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-Stock%20Dashboards-F2C811?style=flat-square&labelColor=0B1120&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-Modeling-217346?style=flat-square&labelColor=0B1120&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apps%20Script-Alerts-4285F4?style=flat-square&labelColor=0B1120&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL%20Workbench-Analysis-06B6D4?style=flat-square&labelColor=0B1120&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced%20SQL-Window%20Fns%20%C2%B7%20CTEs-2563EB?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Excel-Validation-217346?style=flat-square&labelColor=0B1120&logo=microsoftexcel&logoColor=white"/>
 
-**◆ Features**
+**◆ Key Findings**
 
-- Net requirement = demand − on-hand − in-transit
-- Reorder-point &amp; safety-stock flags
-- ABC classification of materials
-- Lead-time-aware purchase suggestions
-- Ageing &amp; dead-stock detection
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>◆ Planning Logic &amp; Data Model &nbsp;—&nbsp; click to expand</b></summary>
-
-<br/>
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F172A','primaryTextColor':'#E2E8F0','lineColor':'#3B82F6','fontFamily':'Fira Code'}}}%%
-erDiagram
-    MATERIAL ||--o{ STOCK_LEDGER : tracked_in
-    MATERIAL ||--o{ BOM_LINE : consumed_by
-    ORDER    ||--o{ BOM_LINE : requires
-    MATERIAL ||--o{ REORDER_RULE : governed_by
-    MATERIAL {
-        int material_id PK
-        string name
-        string abc_class
-        int lead_time_days
-    }
-    STOCK_LEDGER {
-        int ledger_id PK
-        int material_id FK
-        int qty_in
-        int qty_out
-        int on_hand
-    }
-    ORDER {
-        int order_id PK
-        date due_date
-        int qty
-    }
-    BOM_LINE {
-        int line_id PK
-        int order_id FK
-        int material_id FK
-        int qty_required
-    }
-    REORDER_RULE {
-        int rule_id PK
-        int material_id FK
-        int reorder_point
-        int safety_stock
-    }
-```
-
-**Challenge → Learning:** the hard part isn't the query, it's the *timing* — net requirement is only
-meaningful when demand is bucketed against lead time. **Future Scope:** demand forecasting from historical
-consumption and supplier-reliability scoring.
-
-</details>
-
-<div align="center">
-
-<a href="https://github.com/abhishek8762a">
-  <img src="https://img.shields.io/badge/GitHub-Coming%20Soon-1E293B?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Live%20Demo-Planned-06B6D4?style=for-the-badge&labelColor=0B1120"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Documentation-Draft-2563EB?style=for-the-badge&labelColor=0B1120"/>
-</a>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:1E293B,100:0B1120&height=2" alt="divider"/>
-
-<br/>
-
-<!-- ---------------------------------------------------------------------------- -->
-<!-- PROJECT 04 — NETFLIX SQL ANALYTICS DASHBOARD (LIVE)                           -->
-<!-- ---------------------------------------------------------------------------- -->
-
-<div align="center">
-
-### Netflix SQL Analytics Dashboard
-**`● LIVE`** &nbsp;·&nbsp; End-to-End: SQL Analysis → Power BI Dashboard
-
-<img src="https://placehold.co/860x280/0B1120/E50914/png?text=Netflix+SQL+%2B+Power+BI+Analytics&font=source-sans-pro" width="90%" alt="Netflix SQL Analytics — screenshot placeholder"/>
-
-<sub>▲ Screenshot placeholder — this project is live on GitHub (two repos).</sub>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**◆ Business Problem**
-
-A raw catalog of thousands of titles answers nothing on its own. What's the content mix? How has
-production shifted over the years? Which countries and genres dominate? Which ratings skew the library?
-
-**◆ The Solution**
-
-A two-part build: a **SQL analysis layer** that answers business questions directly against the catalog,
-and a **Power BI dashboard** that turns those answers into an interactive story a stakeholder can explore.
-
-</td>
-<td width="50%" valign="top">
-
-**◆ Tech Used**
-
-<img src="https://img.shields.io/badge/SQL-Analysis-06B6D4?style=flat-square&labelColor=0B1120&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&labelColor=0B1120&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/DAX-Measures-2563EB?style=flat-square&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Data%20Cleaning-ETL-22D3EE?style=flat-square&labelColor=0B1120"/>
-
-**◆ What I Analyzed**
-
-- Movies vs. TV-show split &amp; trend over time
-- Content added per year (growth curve)
-- Top countries, genres &amp; ratings
-- Longest-running &amp; most-frequent contributors
-- Rating distribution across the catalog
+- **Supplements:** 48,501 reports — **4× vs Cosmetics**
+- Reports **grew 5×** (2004 → 2016)
+- **Females: 64.9%** of all reports
+- **Seniors (60+):** highest serious-case count
+- **1,393** death / hospitalization entries identified
+- Cross-validated against the **Hydroxycut 2009 ban**
 
 </td>
 </tr>
@@ -836,23 +469,88 @@ and a **Power BI dashboard** that turns those answers into an interactive story 
 <br/>
 
 ```sql
--- Content mix by year: how Netflix's library evolved
+-- Serious outcomes by age group: where does risk concentrate?
 SELECT
-    EXTRACT(YEAR FROM date_added)      AS year_added,
-    type,
-    COUNT(*)                           AS titles,
-    ROUND(100.0 * COUNT(*)
-        / SUM(COUNT(*)) OVER (PARTITION BY EXTRACT(YEAR FROM date_added)), 1) AS pct_of_year
-FROM netflix
-WHERE date_added IS NOT NULL
-GROUP BY year_added, type
-ORDER BY year_added DESC, titles DESC;
+    age_group,
+    COUNT(*)                                   AS total_reports,
+    SUM(CASE WHEN outcome IN ('Death','Hospitalization')
+             THEN 1 ELSE 0 END)                AS serious_cases,
+    ROUND(100.0 * SUM(CASE WHEN outcome IN ('Death','Hospitalization')
+             THEN 1 ELSE 0 END) / COUNT(*), 1) AS serious_pct
+FROM caers_events
+GROUP BY age_group
+ORDER BY serious_cases DESC;
 ```
 
-The `window function` here answers a *business* question — not "how many titles" but "how the **mix**
-shifted" — which is the difference between reporting and analysis.
+The question isn't "how many reports" — it's "**where do the *serious* ones cluster**." That framing is
+what turned 90k rows into a safety signal.
 
 </details>
+
+<div align="center">
+
+<a href="https://github.com/abhishek8762a/fda-adverse-events-sql">
+  <img src="https://img.shields.io/badge/GitHub-fda--adverse--events--sql-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120"/>
+</a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:1E293B,100:0B1120&height=2" alt="divider p2"/>
+
+<br/>
+
+<!-- ---------------------------------------------------------------------------- -->
+<!-- PROJECT 03 — NETFLIX ANALYTICS (POWER BI + SQL)                               -->
+<!-- ---------------------------------------------------------------------------- -->
+
+<div align="center">
+
+### Netflix Analytics Dashboard — Power BI + SQL
+**`● PUBLIC`** &nbsp;·&nbsp; End-to-End: SQL Analysis → Interactive Power BI
+
+<img src="https://placehold.co/860x280/0B1120/E50914/png?text=Netflix+%E2%80%94+Power+BI+%2B+SQL+Analytics&font=source-sans-pro" width="90%" alt="Netflix Analytics — screenshot placeholder"/>
+
+<sub>▲ Screenshot placeholder — two public repos back this project.</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**◆ Business Problem**
+
+A raw catalogue of thousands of titles answers nothing on its own. What's the content mix? How has the
+library shifted over time? What story does the catalogue tell?
+
+**◆ The Solution**
+
+A two-part build: a **SQL analysis layer** that answers business questions against the catalogue, and a
+**fully interactive Power BI dashboard** — dynamic slicers, drill-through filters and KPI cards — modelled
+end-to-end in Power Query (M).
+
+</td>
+<td width="50%" valign="top">
+
+**◆ Tech Used**
+
+<img src="https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat-square&labelColor=0B1120&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20Query%20(M)-Modelling-2563EB?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/SQL-Analysis-06B6D4?style=flat-square&labelColor=0B1120&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-KPI%20Cards-22D3EE?style=flat-square&labelColor=0B1120"/>
+
+**◆ Key Findings**
+
+- **Movies: 69%** of the catalogue
+- Content **surged 300%+ post-2015**
+- Interactive slicers + drill-through + KPI cards
+- Cleaned &amp; modelled end-to-end in Power Query (M)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -867,13 +565,76 @@ shifted" — which is the difference between reporting and analysis.
 
 <br/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:1E293B,100:0B1120&height=2" alt="divider p3"/>
+
+<br/>
+
+<!-- ---------------------------------------------------------------------------- -->
+<!-- PROJECT 04 — TASK DELEGATION TRACKER (APPS SCRIPT)                            -->
+<!-- ---------------------------------------------------------------------------- -->
+
+<div align="center">
+
+### Delegation Management System — Apps Script Web App
+**`● PUBLIC`** &nbsp;·&nbsp; Task assignment, follow-ups &amp; MD-level dashboards
+
+<img src="https://placehold.co/860x280/0B1120/3B82F6/png?text=Delegation+Tracker+%E2%80%94+MD-Level+Dashboards&font=source-sans-pro" width="90%" alt="Delegation Tracker — screenshot placeholder"/>
+
+<sub>▲ Screenshot placeholder</sub>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**◆ Business Problem**
+
+Delegated tasks fall through the cracks: no owner, no follow-up, no visibility for leadership on what's
+actually getting done.
+
+**◆ The Solution**
+
+A Google Apps Script web app for **task assignment, follow-up tracking and revision management**, topped
+with **MD-level performance dashboards** so leadership sees delegation health at a glance.
+
+</td>
+<td width="50%" valign="top">
+
+**◆ Tech Used**
+
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&labelColor=0B1120&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML%2FCSS%2FJS-Web%20App-38BDF8?style=flat-square&labelColor=0B1120&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-Backend-0F9D58?style=flat-square&labelColor=0B1120&logo=googlesheets&logoColor=white"/>
+
+**◆ Features**
+
+- Task assignment &amp; ownership
+- Follow-up &amp; revision tracking
+- MD-level performance dashboards
+- Sheet-driven — reconfigure without redeploy
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/abhishek8762a/task-delegation-tracker">
+  <img src="https://img.shields.io/badge/GitHub-task--delegation--tracker-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120"/>
+</a>
+
+</div>
+
+<br/>
+
 <!-- ---------------------------------------------------------------------------- -->
 <!-- LIVE REPOSITORIES STRIP                                                       -->
 <!-- ---------------------------------------------------------------------------- -->
 
 <div align="center">
 
-### ● Live on GitHub — real, public repositories
+### ● All Public Repositories
 
 </div>
 
@@ -885,8 +646,14 @@ shifted" — which is the difference between reporting and analysis.
 <th align="center">Link</th>
 </tr>
 <tr>
+<td valign="top"><b>fda-adverse-events-sql</b></td>
+<td valign="top">Pharmacovigilance analysis over <b>90,786</b> FDA CAERS records.</td>
+<td valign="top"><code>SQL</code></td>
+<td align="center"><a href="https://github.com/abhishek8762a/fda-adverse-events-sql">Open ↗</a></td>
+</tr>
+<tr>
 <td valign="top"><b>netflix-sql-project</b></td>
-<td valign="top">Netflix catalog analysis answering business questions in pure SQL.</td>
+<td valign="top">Netflix catalogue analysis answering business questions in pure SQL.</td>
 <td valign="top"><code>SQL</code></td>
 <td align="center"><a href="https://github.com/abhishek8762a/netflix-sql-project">Open ↗</a></td>
 </tr>
@@ -897,14 +664,8 @@ shifted" — which is the difference between reporting and analysis.
 <td align="center"><a href="https://github.com/abhishek8762a/netflix-data-analysis-PowerBI">Open ↗</a></td>
 </tr>
 <tr>
-<td valign="top"><b>fda-adverse-events-sql</b></td>
-<td valign="top">FDA CAERS adverse-events analysis over <b>90,786 records</b> — my pharma roots meet SQL.</td>
-<td valign="top"><code>SQL</code></td>
-<td align="center"><a href="https://github.com/abhishek8762a/fda-adverse-events-sql">Open ↗</a></td>
-</tr>
-<tr>
 <td valign="top"><b>task-delegation-tracker</b></td>
-<td valign="top">Apps Script web app — task assignment, follow-ups, revisions &amp; MD-level dashboards.</td>
+<td valign="top">Apps Script web app — assignment, follow-ups &amp; MD dashboards.</td>
 <td valign="top"><code>Apps Script</code> <code>HTML</code></td>
 <td align="center"><a href="https://github.com/abhishek8762a/task-delegation-tracker">Open ↗</a></td>
 </tr>
@@ -912,7 +673,7 @@ shifted" — which is the difference between reporting and analysis.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider projects-end"/>
 
 <br/>
 
@@ -920,9 +681,9 @@ shifted" — which is the difference between reporting and analysis.
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/03-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; The Toolkit — *grouped, not scattered*
+## <img src="https://img.shields.io/badge/04-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; The Toolkit — *grouped, not scattered*
 
-<sub>Not a wall of badges. Skills organized the way I actually use them.</sub>
+<sub>Skills organized the way I actually use them — with the specifics, not just logos.</sub>
 
 </div>
 
@@ -930,85 +691,80 @@ shifted" — which is the difference between reporting and analysis.
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top">
 
-**◆ Languages &amp; Query**
+**◆ SQL**
 
-<br/>
+<img src="https://img.shields.io/badge/Joins%20(INNER%2FLEFT%2FRIGHT)-06B6D4?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Window%20Functions-2563EB?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/CTEs-38BDF8?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Subqueries-22D3EE?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/GROUP%20BY%20%2F%20HAVING-3B82F6?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/CASE-0891B2?style=flat-square&labelColor=0B1120"/>
 
-<img src="https://img.shields.io/badge/SQL-06B6D4?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/DAX-2563EB?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/JavaScript-38BDF8?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/HTML5-22D3EE?style=for-the-badge&logo=html5&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/CSS3-3B82F6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0B1120"/>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**◆ Databases**
-
-<br/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-06B6D4?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/MySQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/SQLite-38BDF8?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Data%20Modeling-22D3EE?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Schema%20Design-3B82F6?style=for-the-badge&labelColor=0B1120"/>
+<sub>ROW_NUMBER · RANK · aggregation · data cleaning</sub>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top">
 
-**◆ Visualization &amp; BI**
+**◆ Power BI**
 
-<br/>
+<img src="https://img.shields.io/badge/Dashboard%20Design-F2C811?style=flat-square&labelColor=0B1120&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-2563EB?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Power%20Query%20(M)-06B6D4?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Data%20Modelling-38BDF8?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/KPI%20Cards-22D3EE?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Slicers%20%26%20Filters-3B82F6?style=flat-square&labelColor=0B1120"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Dashboards-06B6D4?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Data%20Storytelling-2563EB?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/KPI%20Design-38BDF8?style=for-the-badge&labelColor=0B1120"/>
+<sub>drill-through · interactive reports</sub>
 
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top">
 
-**◆ Automation**
+**◆ Excel**
 
-<br/>
-
-<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Web%20Apps-06B6D4?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Workflow%20Design-2563EB?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Process%20Automation-22D3EE?style=for-the-badge&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/XLOOKUP%20%2F%20VLOOKUP-217346?style=flat-square&labelColor=0B1120&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pivot%20Tables-06B6D4?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Nested%20IF-2563EB?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-38BDF8?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Conditional%20Formatting-22D3EE?style=flat-square&labelColor=0B1120"/>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="50%" valign="top">
 
-**◆ Tools &amp; Platform**
+**◆ Automation &amp; Cloud**
 
-<br/>
-
-<img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/VS%20Code-06B6D4?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Google%20Workspace-3B82F6?style=for-the-badge&logo=google&logoColor=white&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Notion-22D3EE?style=for-the-badge&logo=notion&logoColor=white&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Google%20Apps%20Script%20(GCP)-4285F4?style=flat-square&labelColor=0B1120&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/IMPORTRANGE-0F9D58?style=flat-square&labelColor=0B1120&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML%20Form%20Workflows-06B6D4?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Conditional%20Routing-2563EB?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/TAT%20%2F%20SLA%20Tracking-22D3EE?style=flat-square&labelColor=0B1120"/>
 
 </td>
-<td width="33%" valign="top" align="center">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**◆ Analytics &amp; Business**
+**◆ Databases &amp; Tools**
 
-<br/>
+<img src="https://img.shields.io/badge/MySQL-06B6D4?style=flat-square&labelColor=0B1120&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL%20Workbench-2563EB?style=flat-square&labelColor=0B1120&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-0F9D58?style=flat-square&labelColor=0B1120&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-38BDF8?style=flat-square&labelColor=0B1120&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-22D3EE?style=flat-square&labelColor=0B1120&logo=github&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Business%20Intelligence-06B6D4?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Manufacturing%20Analytics-2563EB?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/MIS%20Reporting-38BDF8?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Root%20Cause%20Analysis-22D3EE?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/Process%20Improvement-3B82F6?style=for-the-badge&labelColor=0B1120"/>
+</td>
+<td width="50%" valign="top">
+
+**◆ Domain &amp; Business**
+
+<img src="https://img.shields.io/badge/Pharma%20%2F%20Life--Sciences-06B6D4?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/GMP%20%2F%20GLP-2563EB?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Pharmacovigilance-38BDF8?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/MIS%20Reporting-22D3EE?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/Process%20Digitization-3B82F6?style=flat-square&labelColor=0B1120"/>
 
 </td>
 </tr>
@@ -1019,17 +775,17 @@ shifted" — which is the difference between reporting and analysis.
 **◆ Soft Skills** — the multipliers
 
 <img src="https://img.shields.io/badge/Systems%20Thinking-0B1120?style=flat-square&labelColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Attention%20to%20Detail-0B1120?style=flat-square&labelColor=2563EB"/>
-<img src="https://img.shields.io/badge/Problem%20Framing-0B1120?style=flat-square&labelColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Data%20Integrity%20Mindset-0B1120?style=flat-square&labelColor=2563EB"/>
+<img src="https://img.shields.io/badge/Attention%20to%20Detail-0B1120?style=flat-square&labelColor=38BDF8"/>
 <img src="https://img.shields.io/badge/Documentation-0B1120?style=flat-square&labelColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Ownership-0B1120?style=flat-square&labelColor=3B82F6"/>
-<img src="https://img.shields.io/badge/Cross--Team%20Communication-0B1120?style=flat-square&labelColor=0891B2"/>
+<img src="https://img.shields.io/badge/Cross--Team%20Communication-0B1120?style=flat-square&labelColor=3B82F6"/>
+<img src="https://img.shields.io/badge/Ownership-0B1120?style=flat-square&labelColor=0891B2"/>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:2563EB,100:0B1120&height=3" alt="divider"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:2563EB,100:0B1120&height=3" alt="divider skills"/>
 
 <br/>
 
@@ -1037,15 +793,15 @@ shifted" — which is the difference between reporting and analysis.
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/04-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; GitHub Analytics
+## <img src="https://img.shields.io/badge/05-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; GitHub Analytics
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishek8762a&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=22D3EE&icon_color=3B82F6&text_color=94A3B8&bg_color=0B1120&ring_color=22D3EE" alt="Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhishek8762a&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400&title_color=22D3EE&icon_color=3B82F6&text_color=94A3B8&bg_color=0B1120&ring_color=22D3EE" alt="Stats"/>
 &nbsp;
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek8762a&layout=compact&hide_border=true&langs_count=8&title_color=22D3EE&text_color=94A3B8&bg_color=0B1120" alt="Top languages"/>
+<img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek8762a&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&title_color=22D3EE&text_color=94A3B8&bg_color=0B1120" alt="Top languages"/>
 
 </div>
 
@@ -1061,35 +817,37 @@ shifted" — which is the difference between reporting and analysis.
 
 </div>
 
-<details align="center">
-<summary><b>◆ Contribution Snake &nbsp;—&nbsp; setup note</b></summary>
+<details>
+<summary><b>◆ Contribution Snake &nbsp;—&nbsp; one-time setup note</b></summary>
 
 <br/>
 
 <div align="center">
 
 <!-- The snake requires a GitHub Action (Platane/snk) that renders an SVG on a schedule.
-     Once you add .github/workflows/snake.yml, these images will populate automatically. -->
+     Add .github/workflows/snake.yml to your abhishek8762a/abhishek8762a repo to populate it. -->
 
 <img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
 </div>
 
-**To enable the snake:** create `.github/workflows/snake.yml` in your `abhishek8762a/abhishek8762a` repo
-using the `Platane/snk` action, output to the `output` branch, and reference the SVG above. It regenerates
-your contribution graph as an animated snake on every push / schedule.
+**To enable the snake:** add `.github/workflows/snake.yml` using the `Platane/snk` action, output to the
+`output` branch, and reference the SVG above. It regenerates your contribution graph as an animated snake
+on every push / schedule. *(Ask me and I'll generate the workflow file for you.)*
 
 </details>
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek8762a&theme=github_dark" alt="Profile summary"/>
+<sub>ⓘ If a stats card ever shows as a broken image, that's the shared public analytics service being
+rate-limited — it loads on refresh. For guaranteed uptime you can self-host it free on Vercel (I can set
+that up).</sub>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider a"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider analytics"/>
 
 <br/>
 
@@ -1097,7 +855,7 @@ your contribution graph as an animated snake on every push / schedule.
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/05-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; My Operating System — *how I think before I build*
+## <img src="https://img.shields.io/badge/06-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; My Operating System — *how I think before I build*
 
 </div>
 
@@ -1105,39 +863,36 @@ your contribution graph as an animated snake on every push / schedule.
 <tr>
 <td width="50%" valign="top">
 
-**◆ Design Philosophy**
-
-- **The data model is the product.** UIs are disposable; schemas are forever.
-- **Boring on purpose.** Predictable systems beat clever ones.
-- **One source of truth.** Never sync copies — project from the original.
-- **Auditable by default.** If you can't explain a number, you can't trust it.
-- **Delete before you add.** The best feature is often removed complexity.
-
 **◆ Engineering Principles**
 
-- Model the domain before writing a single query.
-- Normalize until it hurts, denormalize until it works.
-- Automate anything you've done twice.
-- Fail loudly, log everything, assume you'll be audited.
-- Optimize for the person who maintains it next — usually me.
+- **The data model is the product.** Dashboards are disposable; the model is forever.
+- **One source of truth.** Never sync copies — project from the original.
+- **Auditable by default.** If you can't explain a number, you can't trust it.
+- **Automate anything you've done twice.**
+- **Boring on purpose.** Predictable systems beat clever ones.
+
+**◆ Where the QC lab shows up**
+
+Data integrity isn't a feature I add — it's the default I start from. Traceability, documentation and
+audit-readiness are muscle memory from GMP/GLP.
 
 </td>
 <td width="50%" valign="top">
 
 **◆ SQL Thinking**
 
-> A query isn't code — it's a *question* asked precisely. If the answer surprises
-> me, the data is telling me something the report never would.
+> A query isn't code — it's a *question* asked precisely. If the answer surprises me, the data is telling
+> me something the report never would.
 
 **◆ System Thinking**
 
-> Every operational pain is a modeling gap. "The spreadsheet broke" really means
-> "the schema was wrong." Fix the model, the symptoms disappear.
+> Every operational pain is a modeling gap. "The spreadsheet broke" really means "the process was never
+> modelled." Fix the model, the symptoms disappear.
 
 **◆ Business Thinking**
 
-> Nobody wants a dashboard. They want a decision made faster and with less risk.
-> I build the decision, then wrap a dashboard around it.
+> Nobody wants a dashboard. They want a decision made faster, with less risk. I build the decision, then
+> wrap a dashboard around it.
 
 </td>
 </tr>
@@ -1152,7 +907,7 @@ your contribution graph as an animated snake on every push / schedule.
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F172A','primaryTextColor':'#E2E8F0','lineColor':'#22D3EE','fontFamily':'Fira Code'}}}%%
 flowchart LR
     A[1 · Understand<br/>the real problem]:::s --> B[2 · Model<br/>the domain]:::s
-    B --> C[3 · Design<br/>the schema]:::s
+    B --> C[3 · Design<br/>the schema/flow]:::s
     C --> D[4 · Query &<br/>validate]:::s
     D --> E[5 · Visualize<br/>the insight]:::s
     E --> F[6 · Automate<br/>the pipeline]:::s
@@ -1161,13 +916,11 @@ flowchart LR
     classDef done fill:#0B1120,stroke:#22D3EE,color:#22D3EE,stroke-width:2px;
 ```
 
-The order is deliberate: I never touch a chart until the model and the query are trustworthy.
-
 </details>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:2563EB,100:0B1120&height=3" alt="divider b"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:2563EB,100:0B1120&height=3" alt="divider principles"/>
 
 <br/>
 
@@ -1175,7 +928,7 @@ The order is deliberate: I never touch a chart until the model and the query are
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/06-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; Current Focus &amp; Roadmap
+## <img src="https://img.shields.io/badge/07-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; Current Focus &amp; Roadmap
 
 </div>
 
@@ -1185,17 +938,16 @@ The order is deliberate: I never touch a chart until the model and the query are
 
 **◆ Currently Focused On**
 
-<img src="https://img.shields.io/badge/●-Advanced%20SQL%20%28windows%2C%20CTEs%2C%20perf%29-06B6D4?style=flat-square&labelColor=0B1120"/><br/>
-<img src="https://img.shields.io/badge/●-Power%20BI%20%2B%20DAX%20mastery-2563EB?style=flat-square&labelColor=0B1120"/><br/>
-<img src="https://img.shields.io/badge/●-Manufacturing%20phase--flow%20systems-38BDF8?style=flat-square&labelColor=0B1120"/><br/>
-<img src="https://img.shields.io/badge/●-Data%20modeling%20%26%20schema%20design-22D3EE?style=flat-square&labelColor=0B1120"/><br/>
-<img src="https://img.shields.io/badge/●-Automation%20with%20Apps%20Script-3B82F6?style=flat-square&labelColor=0B1120"/>
+<img src="https://img.shields.io/badge/●-Extending%20FMS%20to%20Material%20Receipt-06B6D4?style=flat-square&labelColor=0B1120"/><br/>
+<img src="https://img.shields.io/badge/●-Advanced%20SQL%20(windows%2C%20CTEs)-2563EB?style=flat-square&labelColor=0B1120"/><br/>
+<img src="https://img.shields.io/badge/●-Power%20BI%20%2B%20DAX%20depth-38BDF8?style=flat-square&labelColor=0B1120"/><br/>
+<img src="https://img.shields.io/badge/●-Pharma%20%2F%20Life--Sciences%20analytics-22D3EE?style=flat-square&labelColor=0B1120"/>
 
 **◆ Current Challenges**
 
-- Turning sheet-driven systems into something that scales past sheets.
-- Designing schemas that survive requirement changes without migrations.
-- Making partial-quantity batch flow feel simple to non-technical users.
+- Turning a Sheets-based FMS into something that scales past Sheets.
+- Designing a clean migration path from `IMPORTRANGE` to a relational backend.
+- Keeping TAT/SLA logic simple for non-technical users.
 
 </td>
 <td width="50%" valign="top">
@@ -1208,33 +960,23 @@ NEXT     ██████░░░░░░  Python for data (pandas)
 NEXT     █████░░░░░░░  Data warehousing concepts
 LATER    ███░░░░░░░░░  ETL / ELT pipelines
 LATER    ██░░░░░░░░░░  dbt · cloud data platforms
-GOAL     ░░░░░░░░░░░░  End-to-end Analytics Engineer
+GOAL     ░░░░░░░░░░░░  Analytics Engineer
 ```
 
-**◆ Project Pipeline**
+**◆ Future Goals**
 
-- ▰ Railway Display Board — flagship build-out
-- ▰ Manufacturing Flow — phase-flow v2
-- ▱ Inventory &amp; Material Planning — MVP
-- ▱ Personal SQL case-study series
+- ▰ Become a world-class Data Analyst
+- ▰ Specialize in Pharma / Life-Sciences analytics
+- ▱ Grow into Analytics Engineering
+- ▱ Ship systems real operations depend on
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-**◆ Future Goals**
-
-<img src="https://img.shields.io/badge/1-Become%20a%20world--class%20Data%20Analyst-06B6D4?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/2-Grow%20into%20Analytics%20Engineering-2563EB?style=for-the-badge&labelColor=0B1120"/>
-<img src="https://img.shields.io/badge/3-Ship%20systems%20used%20by%20real%20operations-22D3EE?style=for-the-badge&labelColor=0B1120"/>
-
-</div>
-
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider c"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider roadmap"/>
 
 <br/>
 
@@ -1242,7 +984,7 @@ GOAL     ░░░░░░░░░░░░  End-to-end Analytics Engineer
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/07-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; The Workbench — *daily workflow &amp; environment*
+## <img src="https://img.shields.io/badge/08-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; The Workbench
 
 </div>
 
@@ -1252,10 +994,10 @@ GOAL     ░░░░░░░░░░░░  End-to-end Analytics Engineer
 
 **◆ Daily Workflow**
 
-1. Review what the floor / MIS needs today
-2. Query first — let the data frame the problem
-3. Model or fix the schema if needed
-4. Build / refine the dashboard
+1. Review what operations need today
+2. Query first — let data frame the problem
+3. Model / fix the flow if needed
+4. Build or refine the dashboard
 5. Automate the repetitive step
 6. Document &amp; commit
 
@@ -1264,11 +1006,11 @@ GOAL     ░░░░░░░░░░░░  End-to-end Analytics Engineer
 
 **◆ Dev Environment**
 
-- Editor — <code>VS Code</code>
-- Query — <code>pgAdmin / SQL client</code>
+- Query — <code>MySQL Workbench</code>
 - BI — <code>Power BI Desktop</code>
+- Sheets — <code>Google Sheets</code>
 - Automation — <code>Apps Script</code>
-- Notes — <code>Notion</code>
+- Editor — <code>VS Code</code>
 - VCS — <code>Git + GitHub</code>
 
 </td>
@@ -1288,50 +1030,51 @@ GOAL     ░░░░░░░░░░░░  End-to-end Analytics Engineer
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:2563EB,100:0B1120&height=3" alt="divider d"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:2563EB,100:0B1120&height=3" alt="divider workbench"/>
 
 <br/>
 
-<!-- ============================== CREDENTIALS ============================== -->
+<!-- ============================== EDUCATION · DOMAIN EDGE · WINS ============================== -->
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/08-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; Credentials, Reading &amp; Wins
+## <img src="https://img.shields.io/badge/09-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; Education, Domain Edge &amp; Wins
 
 </div>
 
 <table>
 <tr>
+<td width="34%" valign="top">
+
+**◆ Education**
+
+- **B.Sc.** — Chemistry, Zoology &amp; Botany<br/><sub>Siddharth University · CGPA 7.68 · 2024</sub>
+- **Class 12 (Science)** — 77%<br/><sub>Kendriya Vidyalaya, Lucknow Cantt · 2021</sub>
+- **Class 10** — 82%<br/><sub>Kendriya Vidyalaya, Lucknow Cantt · 2019</sub>
+
+</td>
 <td width="33%" valign="top">
 
-**◆ Certifications**
+**◆ Pharma Domain Edge**
 
-<sub>Add your real certificates &amp; verify links.</sub>
+- GMP / GLP data environments
+- HPLC (Lab Solutions), Karl Fischer
+- UV-Vis &amp; TLC per SOP
+- Batch release &amp; calibration logs
+- Regulatory **data integrity**
 
-- ▱ SQL — *certification placeholder*
-- ▱ Power BI — *certification placeholder*
-- ▱ Data Analytics — *certification placeholder*
+<sub>A differentiator most analysts don't have.</sub>
 
 </td>
 <td width="33%" valign="top">
 
 **◆ Achievements**
 
-- ● 4 public repositories shipped
-- ● Analyzed <b>90,786</b> FDA records in SQL
-- ● Built a live MD-level delegation dashboard
+- ● Deployed a **live production FMS** end-to-end
+- ● Analyzed **90,786** FDA records in SQL
+- ● Maintained QC records for **200+ batch tests**
+- ● Built **MD-level** performance dashboards
 - ● Self-taught the full BI stack on the job
-
-</td>
-<td width="33%" valign="top">
-
-**◆ Currently Reading**
-
-- 📘 *The Data Warehouse Toolkit* — Kimball
-- 📗 *SQL Antipatterns* — Karwin
-- 📙 *Storytelling with Data* — Knaflic
-
-<sub>Swap for your actual reading list.</sub>
 
 </td>
 </tr>
@@ -1339,7 +1082,7 @@ GOAL     ░░░░░░░░░░░░  End-to-end Analytics Engineer
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider edu"/>
 
 <br/>
 
@@ -1347,15 +1090,15 @@ GOAL     ░░░░░░░░░░░░  End-to-end Analytics Engineer
 
 <div align="center">
 
-## <img src="https://img.shields.io/badge/09-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; Let's Connect
+## <img src="https://img.shields.io/badge/10-06B6D4?style=flat-square&labelColor=0B1120" height="22"/> &nbsp; Let's Connect
 
 <br/>
 
-<a href="mailto:abhiyadav@gmail.com">
-  <img src="https://img.shields.io/badge/Email-abhiyadav%40@gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120"/>
+<a href="mailto:abhiyadav8762@gmail.com">
+  <img src="https://img.shields.io/badge/Email-abhiyadav8762%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120"/>
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin-handle">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120"/>
+<a href="https://linkedin.com/in/abhishek-kumar">
+  <img src="https://img.shields.io/badge/LinkedIn-abhishek--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120"/>
 </a>
 <a href="https://github.com/abhishek8762a">
   <img src="https://img.shields.io/badge/GitHub-abhishek8762a-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120"/>
@@ -1363,11 +1106,11 @@ GOAL     ░░░░░░░░░░░░  End-to-end Analytics Engineer
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=760&height=45&lines=Every+operational+problem+is+a+data+problem+in+disguise.;Measure+first.+Model+the+domain.+Automate+the+boring.;Thanks+for+scrolling+%E2%80%94+let's+build+something+measurable." alt="Closing quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=94A3B8&center=true&vCenter=true&width=780&height=45&lines=Every+operational+problem+is+a+data+problem+in+disguise.;Measure+first.+Model+the+domain.+Automate+the+boring.;Thanks+for+scrolling+%E2%80%94+let's+build+something+measurable." alt="Closing quote"/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,35:2563EB,75:0891B2,100:0B1120&height=140&section=footer&text=Data%20%C2%B7%20Systems%20%C2%B7%20Automation&fontSize=20&fontColor=E2E8F0&fontAlignY=72&animation=fadeIn" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,35:2563EB,75:0891B2,100:0B1120&height=140&section=footer&text=Data%20%C2%B7%20Analytics%20%C2%B7%20Automation&fontSize=20&fontColor=E2E8F0&fontAlignY=72&animation=fadeIn" alt="footer"/>
 
 <sub>Designed &amp; built by Abhishek Kumar · Cyan/Blue Enterprise theme · Lucknow, India</sub>
 
