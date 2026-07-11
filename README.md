@@ -38,7 +38,7 @@
 <!-- Identity chips -->
 <img src="https://img.shields.io/badge/Lucknow-India-06B6D4?style=flat-square&labelColor=0B1120&logo=googlemaps&logoColor=22D3EE" alt="Location"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=abhishek8762a&style=flat-square&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Public%20Repos-4-06B6D4?style=flat-square&labelColor=0B1120&logo=github&logoColor=white" alt="Public repositories"/>
 &nbsp;
 <a href="https://github.com/abhishek8762a?tab=followers">
   <img src="https://img.shields.io/github/followers/abhishek8762a?style=flat-square&label=FOLLOWERS&labelColor=0B1120&color=3B82F6&logo=github&logoColor=white" alt="Followers"/>
