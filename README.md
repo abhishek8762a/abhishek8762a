@@ -70,7 +70,7 @@ the intersection of **Business Intelligence, Manufacturing Analytics, Automation
 
 <div align="center">
 
-<a href="mailto:dp9@omexgears.com">
+<a href="mailto:abhiyadav8762@gmail.com">
   <img src="https://img.shields.io/badge/%E2%9C%89%20Email%20Me-06B6D4?style=for-the-badge&labelColor=0B1120&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/your-linkedin-handle">
