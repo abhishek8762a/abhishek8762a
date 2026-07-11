@@ -17,7 +17,7 @@
 <a href="https://github.com/abhishek8762a">
   <img
     width="100%"
-    src="banner.svg"
+    src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/banner.svg"
     alt="Abhishek Kumar — Data Analyst · Pharma & Life-Sciences · SQL · Power BI"
   />
 </a>
@@ -102,7 +102,7 @@ Intelligence, Pharma / Life-Sciences Analytics, Automation &amp; System Design.*
 
 <!-- ============================== SECTION DIVIDER ============================== -->
 
-<img width="100%" src="divider.svg" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/divider.svg" alt="divider"/>
 
 <br/>
 
@@ -210,7 +210,7 @@ flowchart LR
 
 <br/>
 
-<img width="100%" src="divider.svg" alt="divider"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/divider.svg" alt="divider"/>
 
 <br/>
 
@@ -252,7 +252,7 @@ flowchart LR
 
 <br/>
 
-<img width="100%" src="divider.svg" alt="divider exp"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/divider.svg" alt="divider exp"/>
 
 <br/>
 
@@ -404,7 +404,7 @@ path from Sheets to a relational backend as volume grows.
 
 <br/>
 
-<img width="100%" src="divider.svg" alt="divider p1"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/divider.svg" alt="divider p1"/>
 
 <br/>
 
@@ -491,7 +491,7 @@ what turned 90k rows into a safety signal.
 
 <br/>
 
-<img width="100%" src="divider.svg" alt="divider p2"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/divider.svg" alt="divider p2"/>
 
 <br/>
 
@@ -556,7 +556,7 @@ end-to-end in Power Query (M).
 
 <br/>
 
-<img width="100%" src="divider.svg" alt="divider p3"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/divider.svg" alt="divider p3"/>
 
 <br/>
 
@@ -661,7 +661,7 @@ with **MD-level performance dashboards** so leadership sees delegation health at
 
 <br/>
 
-<img width="100%" src="divider.svg" alt="divider projects-end"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/divider.svg" alt="divider projects-end"/>
 
 <br/>
 
@@ -773,7 +773,7 @@ with **MD-level performance dashboards** so leadership sees delegation health at
 
 <br/>
 
-<img width="100%" src="divider.svg" alt="divider skills"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/divider.svg" alt="divider skills"/>
 
 <br/>
 
@@ -835,7 +835,7 @@ that up).</sub>
 
 <br/>
 
-<img width="100%" src="divider.svg" alt="divider analytics"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/divider.svg" alt="divider analytics"/>
 
 <br/>
 
@@ -908,7 +908,7 @@ flowchart LR
 
 <br/>
 
-<img width="100%" src="divider.svg" alt="divider principles"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/divider.svg" alt="divider principles"/>
 
 <br/>
 
@@ -964,7 +964,7 @@ GOAL     ░░░░░░░░░░░░  Analytics Engineer
 
 <br/>
 
-<img width="100%" src="divider.svg" alt="divider roadmap"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/divider.svg" alt="divider roadmap"/>
 
 <br/>
 
@@ -1018,7 +1018,7 @@ GOAL     ░░░░░░░░░░░░  Analytics Engineer
 
 <br/>
 
-<img width="100%" src="divider.svg" alt="divider workbench"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/divider.svg" alt="divider workbench"/>
 
 <br/>
 
@@ -1070,7 +1070,7 @@ GOAL     ░░░░░░░░░░░░  Analytics Engineer
 
 <br/>
 
-<img width="100%" src="divider.svg" alt="divider edu"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/divider.svg" alt="divider edu"/>
 
 <br/>
 
@@ -1098,7 +1098,7 @@ GOAL     ░░░░░░░░░░░░  Analytics Engineer
 
 <br/>
 
-<img width="100%" src="footer.svg" alt="footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/main/footer.svg" alt="footer"/>
 
 <sub>Designed &amp; built by Abhishek Kumar · Cyan/Blue Enterprise theme · Lucknow, India</sub>
 
