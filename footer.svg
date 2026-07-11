@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="Data · Analytics · Automation">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B1120"/>
+      <stop offset="0.5" stop-color="#0C1526"/>
+      <stop offset="1" stop-color="#0B1120"/>
+    </linearGradient>
+    <linearGradient id="facc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3B82F6"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="fsheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="150" fill="url(#fbg)"/>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#facc)"/>
+
+  <text x="600" y="70" text-anchor="middle" fill="#E2E8F0"
+        font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="4">
+    Data &#160;·&#160; Analytics &#160;·&#160; Automation
+  </text>
+
+  <rect x="470" y="90" width="260" height="2.5" rx="1.25" fill="url(#facc)"/>
+  <rect x="470" y="90" width="90" height="2.5" rx="1.25" fill="url(#fsheen)">
+    <animate attributeName="x" values="470;640;470" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+  </rect>
+
+  <text x="600" y="122" text-anchor="middle" fill="#64748B"
+        font-family="'Consolas','SF Mono',Menlo,monospace" font-size="13" letter-spacing="2">
+    Abhishek Kumar &#160;·&#160; Lucknow, India &#160;·&#160; Let's build something measurable
+  </text>
+</svg>
