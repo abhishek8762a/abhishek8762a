@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Abhishek Kumar — Data Analyst">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1120"/>
+      <stop offset="0.55" stop-color="#0C1526"/>
+      <stop offset="1" stop-color="#0B1120"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06B6D4"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glowC" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#06B6D4" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- base -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- ambient glows -->
+  <ellipse cx="250" cy="90" rx="420" ry="260" fill="url(#glowC)">
+    <animate attributeName="cx" values="250;340;250" dur="12s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="980" cy="230" rx="440" ry="280" fill="url(#glowB)">
+    <animate attributeName="cx" values="980;880;980" dur="14s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- subtle vertical grid -->
+  <g stroke="#1E293B" stroke-width="1" opacity="0.45">
+    <line x1="120" y1="40" x2="120" y2="260"/>
+    <line x1="300" y1="40" x2="300" y2="260"/>
+    <line x1="480" y1="40" x2="480" y2="260"/>
+    <line x1="720" y1="40" x2="720" y2="260"/>
+    <line x1="900" y1="40" x2="900" y2="260"/>
+    <line x1="1080" y1="40" x2="1080" y2="260"/>
+  </g>
+
+  <!-- top hairline -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#accent)"/>
+
+  <!-- eyebrow -->
+  <text x="600" y="78" text-anchor="middle" fill="#64748B"
+        font-family="'Consolas','SF Mono',Menlo,monospace" font-size="15" letter-spacing="7">
+    D A T A &#160;·&#160; S Y S T E M S &#160;·&#160; A U T O M A T I O N
+  </text>
+
+  <!-- name -->
+  <text x="600" y="158" text-anchor="middle" fill="#E2E8F0"
+        font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="66"
+        font-weight="700" letter-spacing="8">ABHISHEK KUMAR</text>
+
+  <!-- animated underline -->
+  <rect x="410" y="182" width="380" height="3" rx="1.5" fill="url(#accent)"/>
+  <rect x="410" y="182" width="120" height="3" rx="1.5" fill="url(#sheen)">
+    <animate attributeName="x" values="410;670;410" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/>
+  </rect>
+
+  <!-- subtitle -->
+  <text x="600" y="228" text-anchor="middle" fill="#22D3EE"
+        font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" letter-spacing="1.5">
+    Data Analyst &#160;·&#160; Pharma &amp; Life-Sciences &#160;·&#160; SQL &#160;·&#160; Power BI
+  </text>
+
+  <!-- role chips -->
+  <g font-family="'Consolas','SF Mono',Menlo,monospace" font-size="13" letter-spacing="1">
+    <g transform="translate(388,258)">
+      <rect x="0" y="0" width="118" height="26" rx="13" fill="#0F172A" stroke="#1E293B"/>
+      <circle cx="16" cy="13" r="3" fill="#22D3EE"/>
+      <text x="30" y="17" fill="#94A3B8">SQL</text>
+    </g>
+    <g transform="translate(516,258)">
+      <rect x="0" y="0" width="150" height="26" rx="13" fill="#0F172A" stroke="#1E293B"/>
+      <circle cx="16" cy="13" r="3" fill="#3B82F6"/>
+      <text x="30" y="17" fill="#94A3B8">Power BI</text>
+    </g>
+    <g transform="translate(676,258)">
+      <rect x="0" y="0" width="176" height="26" rx="13" fill="#0F172A" stroke="#1E293B"/>
+      <circle cx="16" cy="13" r="3" fill="#06B6D4"/>
+      <text x="30" y="17" fill="#94A3B8">Automation</text>
+    </g>
+  </g>
+
+  <!-- bottom hairline -->
+  <rect x="0" y="297" width="1200" height="3" fill="url(#accent)" opacity="0.7"/>
+</svg>
