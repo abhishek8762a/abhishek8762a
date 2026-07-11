@@ -17,7 +17,7 @@
 <a href="https://github.com/abhishek8762a">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,35:0891B2,75:2563EB,100:0B1120&height=210&section=header&text=ABHISHEK%20KUMAR&fontSize=52&fontColor=E2E8F0&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Pharma%20%26%20Life-Sciences%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descSize=17&descAlignY=60&descColor=22D3EE&animation=fadeIn"
+    src="banner.svg"
     alt="Abhishek Kumar — Data Analyst · Pharma & Life-Sciences · SQL · Power BI"
   />
 </a>
@@ -102,7 +102,7 @@ Intelligence, Pharma / Life-Sciences Analytics, Automation &amp; System Design.*
 
 <!-- ============================== SECTION DIVIDER ============================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider"/>
+<img width="100%" src="divider.svg" alt="divider"/>
 
 <br/>
 
@@ -210,7 +210,7 @@ flowchart LR
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:2563EB,100:0B1120&height=3" alt="divider"/>
+<img width="100%" src="divider.svg" alt="divider"/>
 
 <br/>
 
@@ -252,7 +252,7 @@ flowchart LR
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider exp"/>
+<img width="100%" src="divider.svg" alt="divider exp"/>
 
 <br/>
 
@@ -286,9 +286,6 @@ flowchart LR
 ### ★ &nbsp; Flow Management System (FMS) &nbsp; ★
 **`FLAGSHIP`** &nbsp;·&nbsp; **`● LIVE IN PRODUCTION`** &nbsp;·&nbsp; Multi-Department Order-to-Dispatch Engine
 
-<img src="https://placehold.co/860x300/0B1120/22D3EE/png?text=Flow+Management+System+%E2%80%94+TAT+Tracked+Pipeline&font=source-sans-pro" width="90%" alt="FMS — screenshot placeholder"/>
-
-<sub>▲ Screenshot placeholder — replace with a real capture from your deployed dashboard.</sub>
 
 </div>
 
@@ -407,7 +404,7 @@ path from Sheets to a relational backend as volume grows.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:1E293B,100:0B1120&height=2" alt="divider p1"/>
+<img width="100%" src="divider.svg" alt="divider p1"/>
 
 <br/>
 
@@ -420,9 +417,6 @@ path from Sheets to a relational backend as volume grows.
 ### FDA Adverse Events Analysis — SQL &amp; Pharmacovigilance
 **`● PUBLIC`** &nbsp;·&nbsp; 90,786 real FDA CAERS records (2004–2017)
 
-<img src="https://placehold.co/860x280/0B1120/06B6D4/png?text=FDA+CAERS+%E2%80%94+90%2C786+Records+in+SQL&font=source-sans-pro" width="90%" alt="FDA Adverse Events — screenshot placeholder"/>
-
-<sub>▲ Screenshot placeholder</sub>
 
 </div>
 
@@ -497,7 +491,7 @@ what turned 90k rows into a safety signal.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:1E293B,100:0B1120&height=2" alt="divider p2"/>
+<img width="100%" src="divider.svg" alt="divider p2"/>
 
 <br/>
 
@@ -510,9 +504,6 @@ what turned 90k rows into a safety signal.
 ### Netflix Analytics Dashboard — Power BI + SQL
 **`● PUBLIC`** &nbsp;·&nbsp; End-to-End: SQL Analysis → Interactive Power BI
 
-<img src="https://placehold.co/860x280/0B1120/E50914/png?text=Netflix+%E2%80%94+Power+BI+%2B+SQL+Analytics&font=source-sans-pro" width="90%" alt="Netflix Analytics — screenshot placeholder"/>
-
-<sub>▲ Screenshot placeholder — two public repos back this project.</sub>
 
 </div>
 
@@ -565,7 +556,7 @@ end-to-end in Power Query (M).
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:1E293B,100:0B1120&height=2" alt="divider p3"/>
+<img width="100%" src="divider.svg" alt="divider p3"/>
 
 <br/>
 
@@ -578,9 +569,6 @@ end-to-end in Power Query (M).
 ### Delegation Management System — Apps Script Web App
 **`● PUBLIC`** &nbsp;·&nbsp; Task assignment, follow-ups &amp; MD-level dashboards
 
-<img src="https://placehold.co/860x280/0B1120/3B82F6/png?text=Delegation+Tracker+%E2%80%94+MD-Level+Dashboards&font=source-sans-pro" width="90%" alt="Delegation Tracker — screenshot placeholder"/>
-
-<sub>▲ Screenshot placeholder</sub>
 
 </div>
 
@@ -673,7 +661,7 @@ with **MD-level performance dashboards** so leadership sees delegation health at
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider projects-end"/>
+<img width="100%" src="divider.svg" alt="divider projects-end"/>
 
 <br/>
 
@@ -785,7 +773,7 @@ with **MD-level performance dashboards** so leadership sees delegation health at
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:2563EB,100:0B1120&height=3" alt="divider skills"/>
+<img width="100%" src="divider.svg" alt="divider skills"/>
 
 <br/>
 
@@ -847,7 +835,7 @@ that up).</sub>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider analytics"/>
+<img width="100%" src="divider.svg" alt="divider analytics"/>
 
 <br/>
 
@@ -920,7 +908,7 @@ flowchart LR
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:2563EB,100:0B1120&height=3" alt="divider principles"/>
+<img width="100%" src="divider.svg" alt="divider principles"/>
 
 <br/>
 
@@ -976,7 +964,7 @@ GOAL     ░░░░░░░░░░░░  Analytics Engineer
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider roadmap"/>
+<img width="100%" src="divider.svg" alt="divider roadmap"/>
 
 <br/>
 
@@ -1030,7 +1018,7 @@ GOAL     ░░░░░░░░░░░░  Analytics Engineer
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:2563EB,100:0B1120&height=3" alt="divider workbench"/>
+<img width="100%" src="divider.svg" alt="divider workbench"/>
 
 <br/>
 
@@ -1082,7 +1070,7 @@ GOAL     ░░░░░░░░░░░░  Analytics Engineer
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1120,50:06B6D4,100:0B1120&height=3" alt="divider edu"/>
+<img width="100%" src="divider.svg" alt="divider edu"/>
 
 <br/>
 
@@ -1110,7 +1098,7 @@ GOAL     ░░░░░░░░░░░░  Analytics Engineer
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,35:2563EB,75:0891B2,100:0B1120&height=140&section=footer&text=Data%20%C2%B7%20Analytics%20%C2%B7%20Automation&fontSize=20&fontColor=E2E8F0&fontAlignY=72&animation=fadeIn" alt="footer"/>
+<img width="100%" src="footer.svg" alt="footer"/>
 
 <sub>Designed &amp; built by Abhishek Kumar · Cyan/Blue Enterprise theme · Lucknow, India</sub>
 
