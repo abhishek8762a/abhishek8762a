@@ -1351,8 +1351,8 @@ GOAL     ░░░░░░░░░░░░  End-to-end Analytics Engineer
 
 <br/>
 
-<a href="mailto:dp9@omexgears.com">
-  <img src="https://img.shields.io/badge/Email-dp9%40omexgears.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120"/>
+<a href="mailto:abhiyadav@gmail.com">
+  <img src="https://img.shields.io/badge/Email-abhiyadav%40@gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120"/>
 </a>
 <a href="https://www.linkedin.com/in/your-linkedin-handle">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120"/>
