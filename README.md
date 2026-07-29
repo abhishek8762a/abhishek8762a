@@ -74,7 +74,7 @@ Intelligence, Pharma / Life-Sciences Analytics, Automation &amp; System Design.*
 <a href="mailto:abhiyadav8762@gmail.com">
   <img src="https://img.shields.io/badge/%E2%9C%89%20Email%20Me-06B6D4?style=for-the-badge&labelColor=0B1120&logoColor=white" alt="Email"/>
 </a>
-<a href="https://linkedin.com/in/abhishek-kumar">
+<a href="https://www.linkedin.com/in/abhi8762/">
   <img src="https://img.shields.io/badge/in%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/abhishek8762a?tab=repositories">
