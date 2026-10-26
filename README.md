@@ -74,7 +74,7 @@ Intelligence, Pharma / Life-Sciences Analytics, Automation &amp; System Design.*
 <a href="mailto:abhiyadav8762@gmail.com">
   <img src="https://img.shields.io/badge/%E2%9C%89%20Email%20Me-06B6D4?style=for-the-badge&labelColor=0B1120&logoColor=white" alt="Email"/>
 </a>
-<a href="https://www.linkedin.com/in/abhi8762/">
+<a href="https://www.linkedin.com/in/abhikumar8762/">
   <img src="https://img.shields.io/badge/in%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/abhishek8762a?tab=repositories">
@@ -1085,8 +1085,8 @@ GOAL     ░░░░░░░░░░░░  Analytics Engineer
 <a href="mailto:abhiyadav8762@gmail.com">
   <img src="https://img.shields.io/badge/Email-abhiyadav8762%40gmail.com-06B6D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120"/>
 </a>
-<a href="https://linkedin.com/in/abhishek-kumar">
-  <img src="https://img.shields.io/badge/LinkedIn-abhishek--kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120"/>
+<a href="https://www.linkedin.com/in/abhikumar8762/">
+  <img src="https://img.shields.io/badge/LinkedIn-abhikumar8762-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120"/>
 </a>
 <a href="https://github.com/abhishek8762a">
   <img src="https://img.shields.io/badge/GitHub-abhishek8762a-2563EB?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1120"/>
