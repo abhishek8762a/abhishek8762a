@@ -80,7 +80,7 @@ Intelligence, Pharma / Life-Sciences Analytics, Automation &amp; System Design.*
 <a href="https://github.com/abhishek8762a?tab=repositories">
   <img src="https://img.shields.io/badge/%E2%9F%A9%20View%20Projects-2563EB?style=for-the-badge&labelColor=0B1120&logoColor=white" alt="Projects"/>
 </a>
-<a href="https://github.com/abhishek8762a/abhishek8762a/blob/main/Abhishek-Kumar-CV.pdf">
+<a href="https://abhishek-portfolio-8762.vercel.app/resume.pdf">
   <img src="https://img.shields.io/badge/%E2%86%93%20Resume-1E293B?style=for-the-badge&labelColor=0B1120&logoColor=white" alt="Resume"/>
 </a>
 
@@ -802,34 +802,6 @@ with **MD-level performance dashboards** so leadership sees delegation health at
 <div align="center">
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=abhishek8762a&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=22D3EE&text_color=94A3B8" alt="Trophies"/>
-
-</div>
-
-<details>
-<summary><b>◆ Contribution Snake &nbsp;—&nbsp; one-time setup note</b></summary>
-
-<br/>
-
-<div align="center">
-
-<!-- The snake requires a GitHub Action (Platane/snk) that renders an SVG on a schedule.
-     Add .github/workflows/snake.yml to your abhishek8762a/abhishek8762a repo to populate it. -->
-
-<img width="100%" src="https://raw.githubusercontent.com/abhishek8762a/abhishek8762a/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
-
-</div>
-
-**To enable the snake:** add `.github/workflows/snake.yml` using the `Platane/snk` action, output to the
-`output` branch, and reference the SVG above. It regenerates your contribution graph as an animated snake
-on every push / schedule. *(Ask me and I'll generate the workflow file for you.)*
-
-</details>
-
-<div align="center">
-
-<sub>ⓘ If a stats card ever shows as a broken image, that's the shared public analytics service being
-rate-limited — it loads on refresh. For guaranteed uptime you can self-host it free on Vercel (I can set
-that up).</sub>
 
 </div>
 
